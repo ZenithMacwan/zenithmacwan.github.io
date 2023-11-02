@@ -1,4 +1,3 @@
-# zenithmacwan.github.io
 # Zenith Macwan - Data Scientist and Data Analyst
 
 ## About Me
@@ -44,7 +43,7 @@ I am a results-driven Data Scientist and Data Analyst with 3 years of experience
 
 ## Skills and Qualifications
 - Self-motivated, innovative, and detail-oriented.
-- Proficient in machine learning, cloud computing, and big data.
+- Proficient in machine learning, Deep Learning, cloud computing, and big data.
 - Strong analytical and problem-solving skills.
 - Experience with MS Excel, Tableau, Python, Power BI, SQL, R, and more.
 
@@ -57,4 +56,4 @@ I'm always eager to connect with professionals in the industry. Feel free to rea
 
 ---
 
-*This README file is for my GitHub Pages portfolio. You can find my live portfolio at [Your Portfolio URL](https://github.com/zenithmacwan).*
+*This is for my GitHub Pages portfolio. You can find my live portfolio at [Github](https://github.com/zenithmacwan).*
